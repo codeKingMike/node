@@ -11,3 +11,4 @@ console.log(q.search);
 /*The query property returns an object with all the querystring parameters as properties:*/
 var qdata = q.query;
 console.log(qdata.month);
+
